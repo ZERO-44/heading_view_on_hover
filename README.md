@@ -1,4 +1,4 @@
-https://github.com/ZERO-44/heading_view_on_hover.git
+https://zero-44.github.io/heading_view_on_hover/
 
 This effect showing text 
 made visible on hover 
